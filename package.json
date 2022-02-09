@@ -49,7 +49,7 @@
     "watch": "concurrently --kill-others \"npm:*-watch\""
   },
   "dependencies": {
-    "node-saml": "https://github.com/ForestAdmin/node-saml.git#c76b0f949893a3eb0c3bd13f4cd73a14467eba29",
+    "node-saml": "https://github.com/ForestAdmin/node-saml.git#7b0de54f9de611183df2e3a077a11b171109f8f4",
     "passport-strategy": "^1.0.0"
   },
   "devDependencies": {
